@@ -1,9 +1,3 @@
-# SocialMedia Backend API (Spring Boot)
-
-Yes, it runs. Somehow.
-
----
-
 ## 🧱 Architecture Overview
 
 This project is a Spring Boot microservice built as a backend API gateway with persistence, caching, and request protection layers.
